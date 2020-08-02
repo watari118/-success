@@ -150,6 +150,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  activesupport
   byebug
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
